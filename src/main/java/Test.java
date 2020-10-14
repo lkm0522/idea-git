@@ -9,5 +9,7 @@ public class Test
         System.out.println("hello world");
 
         System.out.println("hello dev");
+
+        System.out.println("hello test");
     }
 }
